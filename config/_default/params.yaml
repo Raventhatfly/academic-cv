@@ -6,7 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: blue
+  # color: emerald
 
 # SEO
 marketing:
@@ -35,7 +36,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Feiyang Wu"
 
 # Site footer
 footer:
@@ -55,6 +56,6 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
