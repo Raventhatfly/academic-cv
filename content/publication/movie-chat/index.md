@@ -8,20 +8,21 @@ authors:
   - Enxin Song
   - Wenhao Chai
   - Guanhong Wang
-  - Feiyang Wu
   - Yucheng Zhang
   - Haoyang Zhou
+  - Feiyang Wu
+  - Gaoang Wang
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-02-27T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -49,11 +50,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://arxiv.org/abs/2307.16449'
+url_code: 'https://github.com/rese1f/MovieChat'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
-url_project: ''
+url_project: 'https://rese1f.github.io/MovieChat/'
 url_slides: ''
 url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_video: 'https://youtube.com'
