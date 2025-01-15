@@ -60,6 +60,14 @@
     </item>
     
     <item>
+      <title>Xilinx Spartan-7 MicroBlaze Plants vs Zombies</title>
+      <link>http://localhost:1313/project/plants_vs_zombies/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/plants_vs_zombies/</guid>
+      <description>&lt;p&gt;As the final project of UIUC Spring 2024 ECE385 , the Plants vs Zombies Game is implemented with game logic written in C and running on MicroBlaze, and the HDMI IP in System Verilog, mimicing the original PvZ game! However there is only one kind of zombie and four kind of plants. The demo video: &lt;a href=&#34;https://www.bilibili.com/video/BV1UU411Z78A/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bilibili.com/video/BV1UU411Z78A/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
@@ -175,14 +183,6 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -328,7 +328,7 @@
 
 
 
-&lt;div id=&#34;chart-687145239&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-689214573&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -346,7 +346,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-687145239&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-689214573&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
