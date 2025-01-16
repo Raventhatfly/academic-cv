@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Embedded Systems | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/embedded-systems/</link>
-      <atom:link href="http://localhost:1313/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/academic-cv/tags/embedded-systems/</link>
+      <atom:link href="http://localhost:1313/academic-cv/tags/embedded-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>Embedded Systems</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/academic-cv/media/icon_hu7729264130191091259.png</url>
       <title>Embedded Systems</title>
-      <link>http://localhost:1313/tags/embedded-systems/</link>
+      <link>http://localhost:1313/academic-cv/tags/embedded-systems/</link>
     </image>
     
     <item>
       <title>Xilinx Spartan-7 MicroBlaze Plants vs Zombies</title>
-      <link>http://localhost:1313/project/plants_vs_zombies/</link>
+      <link>http://localhost:1313/academic-cv/project/plants_vs_zombies/</link>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/plants_vs_zombies/</guid>
+      <guid>http://localhost:1313/academic-cv/project/plants_vs_zombies/</guid>
       <description>&lt;p&gt;As the final project of UIUC Spring 2024 ECE385 , the Plants vs Zombies Game is implemented with game logic written in C and running on MicroBlaze, and the HDMI IP in System Verilog, mimicing the original PvZ game! However there is only one kind of zombie and four kind of plants. The demo video: &lt;a href=&#34;https://www.bilibili.com/video/BV1UU411Z78A/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bilibili.com/video/BV1UU411Z78A/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
