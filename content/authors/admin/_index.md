@@ -62,18 +62,24 @@ education:
     date_end: 2025-06-25
     summary: |
       GPA: 3.96/4.0
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: BEng Computer Engineering
-    institution: University of Illinois, Urbana Champaign.
+    institution: University of Illinois, Urbana Champaign
     date_start: 2021-09-01
     date_end: 2025-05-31
     summary: |
       GPA: 3.98/4.0
 
       Courses included:
-      - ECE 408 Applied Paralel Programming
+      - ECE385 Digital Signal Processing
+      - ECE391 Computer Systems Engineering
+      - ECE479 Internet of Things and Cognitive Computing 
+      - ECE408 Applied Paralel Programming
+      - CS446 Machine Learning
+
+      
   
 # work:
 #   - position: Director of Cloud Infrastructure
@@ -104,18 +110,26 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
       - name: C++
         description: ''
         percent: 50
-        icon: chart-bar
-      - name: SQL
+        icon: logo/cplusplus
+      - name: MySql
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: logo/MySql
+      - name: Python
+        description: ''
+        percent: 80
+        icon: fa/python
+      - name: ROS2
+        description: ''
+        percent: 80
+        icon: logo/ros
+      - name: CUDA
+        description: ''
+        percent: 80
+        icon: logo/nvidia
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -123,15 +137,19 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: /fa/person-hiking
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        icon: /fa/cats
       - name: Game
         description: ''
         percent: 80
-        icon: gamepad
+        icon: /fa/gamepad
+      - name: Lego
+        description: ''
+        percent: 80
+        icon: /fa/car-side
 
 languages:
   - name: Chinese
