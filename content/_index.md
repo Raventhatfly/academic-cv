@@ -35,8 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a bachelor student at Zhejiang University-Univsersity of Illinois Urbana Champaign institute (ZJU-UIUC). 
-        I am also a member of PhiLab at ZJU-UIUC in which I am working on robotic manipulation and imitation learning.     
+        I'm a master student of computational science and engineering at Harvard University. I recieved my bachelor's degree at Zhejiang University-Univsersity of Illinois Urbana Champaign institute (ZJU-UIUC).      
 
         Please reach out to collaborate 😃
     design:
