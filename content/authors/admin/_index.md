@@ -58,6 +58,11 @@ interests:
   - Vision Language Action
 
 education:
+  - area: ME Computational Science and Engineering
+    institution: Harvard University
+    date_start: 2025-09-01
+    date_end: 2027-05-01
+    
   - area: BS Computer Engineering
     institution: Zhejiang University
     date_start: 2021-09-01
@@ -81,10 +86,7 @@ education:
       - ECE408 Applied Paralel Programming
       - CS446 Machine Learning
 
-  - area: ME Computational Science and Engineering
-    institution: Zhejiang University
-    date_start: 2025-09-01
-    date_end: 2027-05-01
+  
 
       
   
