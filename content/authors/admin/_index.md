@@ -68,7 +68,7 @@ education:
     date_start: 2021-09-01
     date_end: 2025-06-25
     summary: |
-      GPA: 3.96/4.0
+      GPA: 3.96/4.0  (Rank 1/64)
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'

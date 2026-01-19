@@ -5,12 +5,20 @@
     <link>http://localhost:1313/academic-cv/tags/robotics/</link>
       <atom:link href="http://localhost:1313/academic-cv/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>Robotics</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jan 2025 15:16:23 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/academic-cv/media/icon_hu7729264130191091259.png</url>
       <title>Robotics</title>
       <link>http://localhost:1313/academic-cv/tags/robotics/</link>
     </image>
+    
+    <item>
+      <title>Dodgebot</title>
+      <link>http://localhost:1313/academic-cv/project/dodge_bot/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academic-cv/project/dodge_bot/</guid>
+      <description>&lt;p&gt;This work is our senior design.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Tactile Diffusion Policy (Currently Working)</title>

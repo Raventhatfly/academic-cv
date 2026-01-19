@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YOLO | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/academic-cv/tags/yolo/</link>
+      <atom:link href="http://localhost:1313/academic-cv/tags/yolo/index.xml" rel="self" type="application/rss+xml" />
+    <description>YOLO</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/academic-cv/media/icon_hu7729264130191091259.png</url>
+      <title>YOLO</title>
+      <link>http://localhost:1313/academic-cv/tags/yolo/</link>
+    </image>
+    
+    <item>
+      <title>Dodgebot</title>
+      <link>http://localhost:1313/academic-cv/project/dodge_bot/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academic-cv/project/dodge_bot/</guid>
+      <description>&lt;p&gt;This work is our senior design.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

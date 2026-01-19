@@ -34,6 +34,14 @@
     </item>
     
     <item>
+      <title>Dodgebot</title>
+      <link>http://localhost:1313/academic-cv/project/dodge_bot/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academic-cv/project/dodge_bot/</guid>
+      <description>&lt;p&gt;Dodgebot is an interactive dodgeball launcher that tracks human players in real time using YOLO and fires balls at them. I wrote the low-level, real-time motor drivers and built the system on ros2_control, deploying and optimizing YOLO with TensorRT on an NVIDIA Jetson.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Tactile Diffusion Policy (Currently Working)</title>
       <link>http://localhost:1313/academic-cv/publication/preprint/</link>
       <pubDate>Tue, 14 Jan 2025 15:16:23 +0000</pubDate>
@@ -312,7 +320,7 @@
 
 
 
-&lt;div id=&#34;chart-931745826&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-963745281&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -330,7 +338,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-931745826&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-963745281&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

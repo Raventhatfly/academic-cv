@@ -5,12 +5,20 @@
     <link>http://localhost:1313/academic-cv/tags/computer-vision/</link>
       <atom:link href="http://localhost:1313/academic-cv/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Vision</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/academic-cv/media/icon_hu7729264130191091259.png</url>
       <title>Computer Vision</title>
       <link>http://localhost:1313/academic-cv/tags/computer-vision/</link>
     </image>
+    
+    <item>
+      <title>Dodgebot</title>
+      <link>http://localhost:1313/academic-cv/project/dodge_bot/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academic-cv/project/dodge_bot/</guid>
+      <description>&lt;p&gt;This work is our senior design.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</title>
