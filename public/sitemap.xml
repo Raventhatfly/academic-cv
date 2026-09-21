@@ -2,167 +2,175 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/academic-cv/event/example/</loc>
+    <loc>https://example.com/academic-cv/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/event/</loc>
+    <loc>https://example.com/academic-cv/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/computer-vision/</loc>
+    <loc>https://example.com/academic-cv/publication_types/article/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/academic-cv/tags/imitation-learning/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/academic-cv/publication_types/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/academic-cv/publication/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/academic-cv/publication/visual-predicted-force/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/academic-cv/tags/robotics/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/academic-cv/tags/</loc>
+    <lastmod>2026-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/academic-cv/publication/costream/</loc>
+    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/academic-cv/tags/computer-vision/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/project/dodge_bot/</loc>
+    <loc>https://example.com/academic-cv/project/dodge_bot/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/project/</loc>
+    <loc>https://example.com/academic-cv/project/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/robotics/</loc>
+    <loc>https://example.com/academic-cv/tags/yolo/</loc>
     <lastmod>2025-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <loc>https://example.com/academic-cv/tags/diffusion/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/yolo/</loc>
-    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <loc>https://example.com/academic-cv/publication/preprint/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/publication_types/article/</loc>
-    <lastmod>2025-01-14T15:16:23+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/diffusion/</loc>
-    <lastmod>2025-01-14T15:16:23+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/imitation-learning/</loc>
-    <lastmod>2025-01-14T15:16:23+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/academic-cv/publication_types/</loc>
-    <lastmod>2025-01-14T15:16:23+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/academic-cv/publication/</loc>
-    <lastmod>2025-01-14T15:16:23+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/academic-cv/publication/preprint/</loc>
-    <lastmod>2025-01-14T15:16:23+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/embedded-systems/</loc>
+    <loc>https://example.com/academic-cv/tags/embedded-systems/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/fpga/</loc>
+    <loc>https://example.com/academic-cv/tags/fpga/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/system-verilog/</loc>
+    <loc>https://example.com/academic-cv/tags/system-verilog/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/project/plants_vs_zombies/</loc>
+    <loc>https://example.com/academic-cv/project/plants_vs_zombies/</loc>
     <lastmod>2025-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/</loc>
+    <loc>https://example.com/academic-cv/</loc>
     <lastmod>2024-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/projects/</loc>
+    <loc>https://example.com/academic-cv/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/large-language-models/</loc>
+    <loc>https://example.com/academic-cv/tags/large-language-models/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/publication/movie-chat/</loc>
+    <loc>https://example.com/academic-cv/publication/movie-chat/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/publication_types/paper-conference/</loc>
+    <loc>https://example.com/academic-cv/publication_types/paper-conference/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/post/get-started/</loc>
+    <loc>https://example.com/academic-cv/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/academic/</loc>
+    <loc>https://example.com/academic-cv/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/post/</loc>
+    <loc>https://example.com/academic-cv/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/hugo-blox/</loc>
+    <loc>https://example.com/academic-cv/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/markdown/</loc>
+    <loc>https://example.com/academic-cv/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/second-brain/</loc>
+    <loc>https://example.com/academic-cv/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/post/second-brain/</loc>
+    <loc>https://example.com/academic-cv/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/post/data-visualization/</loc>
+    <loc>https://example.com/academic-cv/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/hugo/</loc>
+    <loc>https://example.com/academic-cv/tags/hugo/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/post/teach-courses/</loc>
+    <loc>https://example.com/academic-cv/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/experience/</loc>
+    <loc>https://example.com/academic-cv/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/hugo-blox-builder/</loc>
+    <loc>https://example.com/academic-cv/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/javascript/</loc>
+    <loc>https://example.com/academic-cv/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/teaching/js/</loc>
+    <loc>https://example.com/academic-cv/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/teaching/python/</loc>
+    <loc>https://example.com/academic-cv/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/tags/python/</loc>
+    <loc>https://example.com/academic-cv/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/teaching/</loc>
+    <loc>https://example.com/academic-cv/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/academic-cv/post/project-management/</loc>
+    <loc>https://example.com/academic-cv/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

@@ -1,12 +1,12 @@
 ---
-title: "Tactile Diffusion Policy (Currently Working)"
+title: "Diffusion and Flow Matching Policy with Torque Modality"
 authors:
 - Feiyang Wu
-date: "2025-01-14T15:16:23Z"
+date: "2025-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-06-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,32 +14,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Work in progress"
+publication_short: "Work in progress"
 
-abstract: Diffusion Policy has been prevailing in imitation learning. In this paper I would propose a new approach to add tactile or torque information of robotic arm to help with the training to achieve better performance.
+abstract: Diffusion Policy has been prevailing in imitation learning. This project incorporates joint torque modality into the raw Diffusion Policy formulation to improve action performance on contact-rich manipulation tasks, evaluated on an ARX robotic-arm teleoperation pipeline covering wiping and flipping tasks.
 
 # Summary. An optional shortened abstract.
-summary: Tactile diffusion policy.
+summary: Adding joint torque modality to Diffusion Policy for contact-rich manipulation.
 
 tags:
 - Imitation Learning
 - Diffusion
 - Robotics
 
-featured: true
+featured: false
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -53,21 +50,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
-This work is driven by the results in Diffusion Policy.
-<!-- 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}} -->
-
-<!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+Built an ARX robotic-arm teleoperation data collection, training and evaluation pipeline to replicate results from Diffusion Policy (DP) and Flow Matching on basic and contact-demanding wiping and flipping tasks, then incorporated joint torque modality into raw DP, observing improved action performance on contact-rich tasks.

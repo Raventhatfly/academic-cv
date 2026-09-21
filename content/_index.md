@@ -35,7 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a master student of computational science and engineering at **Harvard University**. I recieved my bachelor's degree at Zhejiang University-Univsersity of Illinois Urbana Champaign institute (ZJU-UIUC).      
+        I'm a master's student in Computational Science and Engineering at **Harvard University**. My research focuses on embodied artificial intelligence — vision-language-action models, world models and imitation learning — and how these methods transfer to real robotic manipulation, especially in contact-rich settings.
+
+        I received my undergraduate degrees through the dual-degree program of the **ZJU-UIUC Institute**: a B.S. in Computer Engineering from the University of Illinois Urbana-Champaign (High Honors) and a B.Eng. in Electronic and Computer Engineering from Zhejiang University.
 
         Please reach out to collaborate! 😃
     design:
