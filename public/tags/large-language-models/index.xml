@@ -2,21 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Large Language Models | Hugo Academic CV Theme</title>
-    <link>https://example.com/academic-cv/tags/large-language-models/</link>
-      <atom:link href="https://example.com/academic-cv/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/academic-cv/tags/large-language-models/</link>
+      <atom:link href="http://localhost:1313/academic-cv/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Large Language Models</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/academic-cv/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/academic-cv/media/icon_hu7729264130191091259.png</url>
       <title>Large Language Models</title>
-      <link>https://example.com/academic-cv/tags/large-language-models/</link>
+      <link>http://localhost:1313/academic-cv/tags/large-language-models/</link>
     </image>
     
     <item>
+      <title>CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation</title>
+      <link>http://localhost:1313/academic-cv/publication/costream/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/academic-cv/publication/costream/</guid>
+      <description>&lt;p&gt;Long-horizon, contact-rich manipulation demands both millimeter precision and generalization to new tasks — requirements that classical task-specific pipelines and monolithic end-to-end policies each satisfy only one half of. CoStream instead treats a capability as something that can be decomposed and recomposed.&lt;/p&gt;
+&lt;h2 id=&#34;composable-behaviors&#34;&gt;Composable behaviors&lt;/h2&gt;
+&lt;p&gt;CoStream orchestrates foundation models and diverse sensors into three independent core behaviors that share a common SE(3) interface and combine by right-multiplication into a single pose command per control step:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Semantic behavior&lt;/strong&gt; — extracts spatial constraints for the task.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Predictive behavior&lt;/strong&gt; — forecasts trajectories from imagined videos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reactive behavior&lt;/strong&gt; — supplies high-frequency tactile corrections.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Evaluated on 8 real-world tasks spanning everyday manipulation and precision assembly:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;96.7%&lt;/strong&gt; mean success on contact-rich assembly, where the baselines score 0%.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;66.7%&lt;/strong&gt; mean success on everyday manipulation, against 11.7% for π0.5.&lt;/li&gt;
+&lt;li&gt;Drill insertion reaches &lt;strong&gt;100%&lt;/strong&gt; success with the reactive behavior, dropping to 20% without it.&lt;/li&gt;
+&lt;li&gt;Completes a full motherboard assembly (CPU, GPU, RAM) with &lt;strong&gt;zero retraining&lt;/strong&gt; between subtasks, and recovers robustly from manual perturbations during execution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Work done with collaborators at Harvard University, Stanford University, MIT and Columbia University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</title>
-      <link>https://example.com/academic-cv/publication/movie-chat/</link>
+      <link>http://localhost:1313/academic-cv/publication/movie-chat/</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/academic-cv/publication/movie-chat/</guid>
+      <guid>http://localhost:1313/academic-cv/publication/movie-chat/</guid>
       <description></description>
     </item>
     

@@ -290,4 +290,4 @@ awards:
 
 Feiyang Wu is a Master's student in Computational Science and Engineering at Harvard University. He received his undergraduate degrees through the dual-degree program of the ZJU-UIUC Institute, holding a B.S. in Computer Engineering from the University of Illinois Urbana-Champaign (High Honors) and a B.Eng. in Electronic and Computer Engineering from Zhejiang University.
 
-His research focuses on embodied artificial intelligence — vision-language-action models, world models and imitation learning — and how these methods transfer to real robotic manipulation, particularly in contact-rich settings. He previously co-authored the CVPR 2024 paper *MovieChat*, and has worked on VLA infrastructure at LimX Dynamics and robotics testing systems at Amazon.
+His research focuses on embodied artificial intelligence — vision-language-action models, world models and imitation learning — and how these methods transfer to real robotic manipulation, particularly in contact-rich settings.
