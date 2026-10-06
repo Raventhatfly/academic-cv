@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robotics | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/academic-cv/tags/robotics/</link>
-      <atom:link href="http://localhost:1313/academic-cv/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://raventhatfly.github.io/academic-cv/tags/robotics/</link>
+      <atom:link href="https://raventhatfly.github.io/academic-cv/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>Robotics</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/academic-cv/media/icon_hu7729264130191091259.png</url>
+      <url>https://raventhatfly.github.io/academic-cv/media/icon_hu7729264130191091259.png</url>
       <title>Robotics</title>
-      <link>http://localhost:1313/academic-cv/tags/robotics/</link>
+      <link>https://raventhatfly.github.io/academic-cv/tags/robotics/</link>
     </image>
     
     <item>
       <title>Robot Learning with Visual Predicted Force</title>
-      <link>http://localhost:1313/academic-cv/publication/visual-predicted-force/</link>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-cv/publication/visual-predicted-force/</guid>
+      <link>https://raventhatfly.github.io/academic-cv/publication/visual-predicted-force/</link>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://raventhatfly.github.io/academic-cv/publication/visual-predicted-force/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation</title>
-      <link>http://localhost:1313/academic-cv/publication/costream/</link>
+      <link>https://raventhatfly.github.io/academic-cv/publication/costream/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-cv/publication/costream/</guid>
+      <guid>https://raventhatfly.github.io/academic-cv/publication/costream/</guid>
       <description>&lt;p&gt;Long-horizon, contact-rich manipulation demands both millimeter precision and generalization to new tasks — requirements that classical task-specific pipelines and monolithic end-to-end policies each satisfy only one half of. CoStream instead treats a capability as something that can be decomposed and recomposed.&lt;/p&gt;
 &lt;h2 id=&#34;composable-behaviors&#34;&gt;Composable behaviors&lt;/h2&gt;
 &lt;p&gt;CoStream orchestrates foundation models and diverse sensors into three independent core behaviors that share a common SE(3) interface and combine by right-multiplication into a single pose command per control step:&lt;/p&gt;
@@ -47,9 +47,9 @@
     
     <item>
       <title>Dodgebot</title>
-      <link>http://localhost:1313/academic-cv/project/dodge_bot/</link>
+      <link>https://raventhatfly.github.io/academic-cv/project/dodge_bot/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-cv/project/dodge_bot/</guid>
+      <guid>https://raventhatfly.github.io/academic-cv/project/dodge_bot/</guid>
       <description>&lt;p&gt;Dodgebot is an interactive dodgeball launcher that tracks human players in real time using YOLO and fires balls at them. I wrote the low-level, real-time motor drivers and built the system on ros2_control, deploying and optimizing YOLO with TensorRT on an NVIDIA Jetson.&lt;/p&gt;</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Large Language Models | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/academic-cv/tags/large-language-models/</link>
-      <atom:link href="http://localhost:1313/academic-cv/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://raventhatfly.github.io/academic-cv/tags/large-language-models/</link>
+      <atom:link href="https://raventhatfly.github.io/academic-cv/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Large Language Models</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/academic-cv/media/icon_hu7729264130191091259.png</url>
+      <url>https://raventhatfly.github.io/academic-cv/media/icon_hu7729264130191091259.png</url>
       <title>Large Language Models</title>
-      <link>http://localhost:1313/academic-cv/tags/large-language-models/</link>
+      <link>https://raventhatfly.github.io/academic-cv/tags/large-language-models/</link>
     </image>
     
     <item>
       <title>CoStream: Composing Simple Behaviors for Generalizable Complex Manipulation</title>
-      <link>http://localhost:1313/academic-cv/publication/costream/</link>
+      <link>https://raventhatfly.github.io/academic-cv/publication/costream/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-cv/publication/costream/</guid>
+      <guid>https://raventhatfly.github.io/academic-cv/publication/costream/</guid>
       <description>&lt;p&gt;Long-horizon, contact-rich manipulation demands both millimeter precision and generalization to new tasks — requirements that classical task-specific pipelines and monolithic end-to-end policies each satisfy only one half of. CoStream instead treats a capability as something that can be decomposed and recomposed.&lt;/p&gt;
 &lt;h2 id=&#34;composable-behaviors&#34;&gt;Composable behaviors&lt;/h2&gt;
 &lt;p&gt;CoStream orchestrates foundation models and diverse sensors into three independent core behaviors that share a common SE(3) interface and combine by right-multiplication into a single pose command per control step:&lt;/p&gt;
@@ -39,9 +39,9 @@
     
     <item>
       <title>MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</title>
-      <link>http://localhost:1313/academic-cv/publication/movie-chat/</link>
+      <link>https://raventhatfly.github.io/academic-cv/publication/movie-chat/</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academic-cv/publication/movie-chat/</guid>
+      <guid>https://raventhatfly.github.io/academic-cv/publication/movie-chat/</guid>
       <description></description>
     </item>
     
